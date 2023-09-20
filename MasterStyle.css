@@ -31,6 +31,7 @@ header {
     width: 16px;
     height: 11px;
     padding: 2px;
+    padding-top:20px;
 }
 
 nav {
@@ -47,6 +48,24 @@ nav {
     height: 500px;
     padding: 5px;
     display: flex;
+}
+section img{
+    width:100%;
+    display:inline-block;
+}
+.pr-block{
+    
+    margin-left:280px;
+}
+.pr {
+    width: 980px;
+    height: 166px;
+    display:flex;
+    justify-content: space-between;
+}
+.pr img{
+    width:300px;
+    height:130px;
 }
 
 .bottommenu {
